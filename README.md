@@ -6,3 +6,6 @@ Przykładowa zmiana w pliku README.md w celu zobrazowania działania systemu kon
 Piersze zmiany w pliku README.MD
 
 Drige zmiany w pliku README.MD
+
+Trzecie zmiany w pliku README.MD
+
